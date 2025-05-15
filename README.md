@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://drive.google.com/file/d/1XJRdyl-OQjpRD52sNhXeY5QOpr22-WPy/view?usp=drive_link" alt="Reyaz Khan" width="100" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Reyaz Khan</h1>
 <h3 align="center">An aspiring Product manager / Data analyst from India</h3>
 
