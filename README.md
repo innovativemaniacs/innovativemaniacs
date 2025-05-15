@@ -11,6 +11,8 @@
 
 <p align="left" style="margin-right: 25px">
   <a href="https://www.instagram.com/innovativemaniac/" target="blank">
+  <img src="https://img.shields.io/instgram/follow/innovativemaniacs?logo=instgram&style=for-the-badge" alt="Reyaz" />
+  </
     
   </a>
 </p>
