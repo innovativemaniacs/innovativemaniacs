@@ -11,7 +11,7 @@
 
 <p align="left" style="margin-right: 25px">
   <a href="https://accountscenter.instagram.com/connected_experiences/profile_links/edit/FXACINFRAOBIDPERVIEWERAVN6Oy6UXQoovu-ZW5FPk3VAk6jUrqZwSbS5FsJRZjhnI6a-wtkfdhjLxSoeevr5JRA_VHjRFb3dxuI-FBOMo0JFoT8Q/?theme=dark" target="blank">
-    <img src="https://img.shields.io/twitter/follow/KaranKumar37664?logo=twitter&style=for-the-badge" alt="Reyaz Khan" />
+    
   </a>
 </p>
 
@@ -48,6 +48,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numPy" width="30" height="30" style="margin-right: 15px"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="30" height="30" style="margin-right: 15px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="30" height="30" style="margin-right: 15px"/>
-     <img src=hhttps://seeklogo.com/vector-logo/482394/autocad alt="autocad" width="30" height="30" style="margin-right: 100px; background-color: white" />
-      <img src=https://https://seeklogo.com/vector-logo/179590/solidworks alt=solidWorks width="30" height="30" style="margin-right: 100px; background-color: white" />
-    </p>
+      </p>
