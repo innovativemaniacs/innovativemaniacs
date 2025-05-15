@@ -11,7 +11,7 @@
 
 <p align="left" style="margin-right: 25px">
   <a href="https://accountscenter.instagram.com/connected_experiences/profile_links/edit/FXACINFRAOBIDPERVIEWERAVN6Oy6UXQoovu-ZW5FPk3VAk6jUrqZwSbS5FsJRZjhnI6a-wtkfdhjLxSoeevr5JRA_VHjRFb3dxuI-FBOMo0JFoT8Q/?theme=dark" target="blank">
-    <img src="https://img.shields.io/twitter/follow/KaranKumar37664?logo=twitter&style=for-the-badge" alt="karankumar" />
+    <img src="https://img.shields.io/twitter/follow/KaranKumar37664?logo=twitter&style=for-the-badge" alt="Reyaz Khan" />
   </a>
 </p>
 
