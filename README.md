@@ -9,11 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=innovativemaniacs&label=Profile%20views&color=0e75b6&style=flat" alt="innovativemaniacs" />
 </p>
 
-<p align="left" style="margin-right: 25px">
-  <a href="https://www.instagram.com/innovativemaniac/" target="blank">
-  <img src="https://img.shields.io/instgram/follow/innovativemaniacs?logo=instgram&style=for-the-badge" alt="Reyaz" />
-  </
-    
+<p align="left">
+  <a href="https://www.instagram.com/innovativemaniac/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@innovativemaniac-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="innovativemaniac" />
+  </a>
+</p>
+
   </a>
 </p>
 
