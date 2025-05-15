@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/KaranKumar37664" target="blank">
+  <a href="https://www.instagram.com/innovativemaniac/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innovativemaniacs" height="20" width="30" />
   </a>
-  <a href="www.linkedin.com/in/reyaz-khan-29623b246/ " target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="innovativemaniacs" height="20" width="30" />
+  <a href="https://www.linkedin.com/in/reyaz-khan-29623b246/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reyaz-khan" height="20" width="30" />
   </a>
 </p>
 
