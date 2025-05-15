@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karandevhub&label=Profile%20views&color=0e75b6&style=flat" alt="karandevhub" />
+  <img src="https://komarev.com/ghpvc/?username=innovativemaniacs&label=Profile%20views&color=0e75b6&style=flat" alt="innovativemaniacs" />
 </p>
 
 <p align="left" style="margin-right: 25px">
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/KaranKumar37664" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karandevhub" height="20" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innovative" height="20" width="30" />
   </a>
   <a href="www.linkedin.com/in/reyaz-khan-29623b246/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskaran" height="20" width="30" />
@@ -32,7 +32,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg width="30" height="30" style="margin-right: 100px; background-color: white" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg) alt="ardunioIDE width="30" height="30" style="margin-right: 15px"/>
   <img scr=https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg) alt="canva" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" style="margin-right: 15px"/>
